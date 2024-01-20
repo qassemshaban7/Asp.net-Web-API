@@ -1,0 +1,275 @@
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\appsettings.json
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Demo.exe
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Demo.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\ref\Demo.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.pdb
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Christen\Desktop\Monof Intake42 WEbAPi\Demo\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\appsettings.Development.json
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\appsettings.json
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Demo.exe
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Demo.deps.json
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Demo.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Demo.pdb
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Humanizer.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+U:\back_end\MVC Chrestina\Demo\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Pack.cache
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\staticwebassets\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\staticwebassets\msbuild.build.Demo.props
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Demo.props
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Demo.props
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.dll
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\refint\Demo.dll
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.pdb
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+U:\back_end\MVC Chrestina\Demo\Demo\obj\Debug\net5.0\ref\Demo.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\appsettings.Development.json
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\appsettings.json
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Demo.exe
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Demo.deps.json
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Demo.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Demo.pdb
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Humanizer.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Pack.cache
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\staticwebassets\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\staticwebassets\msbuild.build.Demo.props
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Demo.props
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Demo.props
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\refint\Demo.dll
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.pdb
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+U:\projects with c#\ITI Chrestina\Demo-MVC\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\appsettings.json
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Demo.exe
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Demo.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Pack.cache
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\staticwebassets\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\staticwebassets\msbuild.build.Demo.props
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Demo.props
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Demo.props
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\refint\Demo.dll
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.pdb
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+C:\Users\KING\Downloads\projects with c#\ITI Chrestina\Demo-API1\Demo\obj\Debug\net5.0\ref\Demo.dll
